@@ -104,10 +104,9 @@ a {
   
   .footer {
     position: fixed;
-Color:white;
+    Color:white;
     top: 0;
-    left: 0;
-    right: 0;
+    width: 14.2rem;
     padding: 0.4rem;
     display: flex;
     align-items: center;
