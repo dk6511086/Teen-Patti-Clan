@@ -83,7 +83,7 @@ a {
   .warp {
     position: inherit;
     width: 15rem;
-   height: 195rem;
+   height: 220rem;
    margin-top: 3rem;
     background: url("../imgs/teen-patti-clan.png") no-repeat;
     background-size: 100% ;
@@ -286,7 +286,7 @@ margin-left: .5rem;
 
 .foot{
   width: 15rem;
-  height: 9.3rem;
+  height: 11.5rem;
   background-color: #410b06;
 }
 
